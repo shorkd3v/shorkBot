@@ -1,0 +1,21 @@
+{
+  "name": "shork-bot",
+  "version": "1.0.0",
+  "description": "a general purpose discord bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "_shork",
+  "license": "ISC",
+  "dependencies": {
+    "commandkit": "^0.1.3",
+    "discord.js": "^14.12.1",
+    "dotenv": "^16.3.1",
+    "mongoose": "^7.4.5"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.1"
+  }
+}

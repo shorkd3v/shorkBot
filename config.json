@@ -1,0 +1,6 @@
+{
+  "devServers": ["dev_server_id"],
+  "devs": ["developer_id"],
+  "oneshot": ["oneshot_commands_access_member_id"],
+  "blocked": []
+}
