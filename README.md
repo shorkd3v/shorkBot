@@ -1,6 +1,8 @@
 # shorkBot
 shorkBot's source code. shorkBot is my personal project i am working on
 
+yeah i couldn't figure out how to create folders
+
 # installation
 
 ## dependencies
